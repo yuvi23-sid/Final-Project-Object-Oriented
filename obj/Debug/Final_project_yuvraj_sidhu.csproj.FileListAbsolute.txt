@@ -1,0 +1,7 @@
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\bin\Debug\Final_project_yuvraj_sidhu.exe.config
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\bin\Debug\Final_project_yuvraj_sidhu.exe
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\bin\Debug\Final_project_yuvraj_sidhu.pdb
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\obj\Debug\Final_project_yuvraj_sidhu.csproj.AssemblyReference.cache
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\obj\Debug\Final_project_yuvraj_sidhu.csproj.CoreCompileInputs.cache
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\obj\Debug\Final_project_yuvraj_sidhu.exe
+C:\Users\Yuvraj\OneDrive - Bow Valley College\Yuvraj Sidhu\Final_project_yuvraj_sidhu\obj\Debug\Final_project_yuvraj_sidhu.pdb
